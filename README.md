@@ -2,3 +2,8 @@
 
 - Machine one:
   - Stack based
+  - Written in C
+
+- Machine two:
+  - 
+
